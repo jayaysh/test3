@@ -1,0 +1,18 @@
+# 라이트/다크를 각각 정의하면 사용자 기기의 설정을 따라 자동 전환된다
+[theme.light]
+primaryColor = "#4F46E5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F4F8"
+textColor = "#1F2937"
+
+[theme.dark]
+primaryColor = "#818CF8"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1A1D27"
+textColor = "#E5E7EB"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
